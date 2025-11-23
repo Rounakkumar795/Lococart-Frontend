@@ -27,6 +27,19 @@ React JS • Node JS • Express JS • Mongo DB • Nodemailer/SendGrid
 <img src="https://i.ibb.co/sVvGQv5/Untitled.png" alt="Untitled" border="0">
 </p>
 
+<h2 align="center">SCREENSHOTS</h2>
+<h3>1. LANDING PAGE</h3>
+<img src="https://i.ibb.co/yR0fq1B/Picture2.png" alt="Picture2" border="0">
+<h3>2. PRODUCTS</h3>
+<img src="https://i.ibb.co/2SXvq2f/Picture4.jpg" alt="Picture4" border="0">
+<h3>3. PRODUCT DESCRIPTION</h3>
+<img src="https://i.ibb.co/wRN7s76/Picture8.png" alt="Picture8" border="0">
+<h3>4. SELLER PROFILE</h3>
+<img src="https://i.ibb.co/jJk9Kyf/Picture5.png" alt="Picture5" border="0">
+<h3>5. 3-STEP PLACE ORDER FEATURE</h3>
+<img src="https://i.ibb.co/3sB2Dhh/Picture7.png" alt="Picture7" border="0">
+<h3>6. BIDDING PAGE WHERE THE SELLERS COMPETE TO WIN AN ORDER AND THIS IS WHERE THE MAIN ACTION TAKES PLACE</h3>
+<img src="https://i.ibb.co/VQLpJtv/Picture6.png" alt="Picture6" border="0">
 <h2 align="center">REFERENCES</h2>
 
 <ul>
